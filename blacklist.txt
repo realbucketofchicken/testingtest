@@ -1,7 +1,7 @@
 L!ListBegin
-NAME: adg
-UID: dga
+NAME: Cat
+UID: BOOM
 PUNISHMENT: BAN
-REASON: Kitten 
+REASON: Kitten eater
 END_DATE: 32820940800
 L!ListEnd
