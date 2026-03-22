@@ -1,0 +1,7 @@
+L!ListBegin
+NAME: adg
+UID: dga
+PUNISHMENT: BAN
+REASON: gad
+END_DATE: 0
+L!ListEnd
