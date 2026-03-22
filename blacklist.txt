@@ -2,6 +2,6 @@ L!ListBegin
 NAME: adg
 UID: dga
 PUNISHMENT: BAN
-REASON: Kitten burstsers
+REASON: Kitten bust
 END_DATE: 32820940800
 L!ListEnd
