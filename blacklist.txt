@@ -3,5 +3,5 @@ NAME: adg
 UID: dga
 PUNISHMENT: BAN
 REASON: gad
-END_DATE: 0
+END_DATE: 1999
 L!ListEnd
