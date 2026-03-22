@@ -2,10 +2,6 @@ L!ListBegin
 NAME: adg
 UID: dga
 PUNISHMENT: BAN
-<<<<<<< HEAD
-REASON: Cat kitty
-=======
-REASON: Kitten burst
->>>>>>> main
+REASON: Kitten bursts
 END_DATE: 32820940800
 L!ListEnd
