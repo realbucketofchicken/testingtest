@@ -5,7 +5,7 @@ PUNISHMENT: BAN
 <<<<<<< HEAD
 REASON: Cat kitty
 =======
-REASON: Kitten burst
+REASON: Kitten burster
 >>>>>>> main
 END_DATE: 32820940800
 L!ListEnd
