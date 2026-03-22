@@ -1954,4 +1954,9 @@ UID: adsadfgadgda
 PUNISHMENT: BAN
 REASON: Eated my apple
 END_DATE: 0
+NAME: ban
+UID: 
+PUNISHMENT: BAN
+REASON: 
+END_DATE: 0
 L!ListEnd
